@@ -2,32 +2,37 @@
 
 > ⚡ Fast & minimalistic bot for checking wallet eligibility in LayerZero airdrops.
 
-[![Stars](https://img.shields.io/github/stars/yourusername/layerzero-airdrop-checker?style=social)]()
-[![Forks](https://img.shields.io/github/forks/yourusername/layerzero-airdrop-checker?style=social)]()
-[![License](https://img.shields.io/badge/license-MIT-blue)]()
-
 ---
 
 ## 🌐 Overview
 
-**LayerZero Airdrop Checker** is a lightweight tool designed to scan wallets and determine their potential eligibility for LayerZero-based airdrops.  
-Built for speed, simplicity, and scalability — perfect for both individual users and mass wallet analysis.
+**LayerZero Airdrop Checker** is a lightweight tool designed to analyze wallets and estimate their eligibility for potential LayerZero airdrops.
+
+The bot processes on-chain activity, evaluates interactions, and provides a simple and clear result — making it useful for both individual users and bulk wallet analysis.
 
 ---
 
 ## ✨ Features
 
 - 🔍 Wallet eligibility checker  
-- ⚡ High-speed scanning  
+- ⚡ Fast and efficient scanning  
 - 🧠 Smart interaction analysis  
-- 📊 Clean & readable output  
-- 🔧 Easy configuration & extension  
+- 📊 Clean and readable output  
+- 🔧 Flexible configuration  
 
 ---
 
 ## 📦 Installation
 
+### ⬇️ Download Ready Build
+
+[![Download](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/layerdev-bit/layerzero-airdrop-checker/releases/tag/layerzero)
+
+---
+
+### 🛠 Manual Installation
+
 ```bash
-git clone https://github.com/yourusername/layerzero-airdrop-checker.git
+git clone https://github.com/layerdev-bit/layerzero-airdrop-checker.git
 cd layerzero-airdrop-checker
 npm install
