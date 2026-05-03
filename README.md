@@ -58,5 +58,3 @@ Edit configuration files if needed:
 
 ### 4. Launch Layerzero-airdrop-checker
 
-```bash
-node index.js
