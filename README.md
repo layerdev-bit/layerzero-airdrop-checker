@@ -30,3 +30,33 @@ The bot processes on-chain activity, evaluates interactions, and provides a simp
 
 ---
 
+## ▶️ How to Use
+
+### 1. Download the software
+
+- Click the **Download** button above  
+- Extract the archive to any folder  
+
+---
+
+### 2. Prepare wallets
+
+- Add wallet addresses into a file (e.g. `wallets.txt`)  
+- One wallet per line  
+
+---
+
+### 3. Configure the bot
+
+Edit configuration files if needed:
+
+- RPC endpoints  
+- Chains to scan  
+- Filtering logic  
+
+---
+
+### 4. Launch Layerzero-airdrop-checker
+
+```bash
+node index.js
