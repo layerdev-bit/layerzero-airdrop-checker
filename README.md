@@ -30,9 +30,3 @@ The bot processes on-chain activity, evaluates interactions, and provides a simp
 
 ---
 
-### 🛠 Manual Installation
-
-```bash
-git clone https://github.com/layerdev-bit/layerzero-airdrop-checker.git
-cd layerzero-airdrop-checker
-npm install
